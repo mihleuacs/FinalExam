@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalExam", "FinalExam\FinalExam.csproj", "{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "CarController\UnitTest.csproj", "{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97} = {DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A83451-FFD4-4665-A9D0-6FAB7E94F80A}
+	EndGlobalSection
+EndGlobal

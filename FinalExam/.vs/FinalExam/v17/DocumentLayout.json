@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}|CarController\\UnitTest.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\carcontroller\\clientcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}|CarController\\UnitTest.csproj|solutionrelative:carcontroller\\clientcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}|CarController\\UnitTest.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\carcontroller\\carcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}|CarController\\UnitTest.csproj|solutionrelative:carcontroller\\carcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\services\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\services\\repos\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\services\\repos\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\services\\repos\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}|CarController\\UnitTest.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\carcontroller\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1751E4B-5A2B-4041-8688-F4C0A7A0A78F}|CarController\\UnitTest.csproj|solutionrelative:carcontroller\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\services\\interface\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\services\\interface\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\services\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\services\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\dtos\\createdtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\dtos\\createdtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\dtos\\updatedtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\dtos\\updatedtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\dtos\\updatedtos\\updateclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\dtos\\updatedtos\\updateclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\dtos\\createdtos\\createclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\dtos\\createdtos\\createclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\models\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\models\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\data\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\data\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|c:\\users\\student\\desktop\\mihail shapkarov 5185\\finalexam\\finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCDB38B4-62D2-4FE4-A3A4-51C3BFCA5A97}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\CarController\\CarControllerTest.cs",
+              "RelativeDocumentMoniker": "CarController\\CarControllerTest.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\CarController\\CarControllerTest.cs",
+              "RelativeToolTip": "CarController\\CarControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:13:31.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Repos\\CarRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Services\\Repos\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Repos\\CarRepository.cs",
+              "RelativeToolTip": "FinalExam\\Services\\Repos\\CarRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:04:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Controllers\\CarController.cs",
+              "RelativeToolTip": "FinalExam\\Controllers\\CarController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:36:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\CarController\\ClientControllerTest.cs",
+              "RelativeDocumentMoniker": "CarController\\ClientControllerTest.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\CarController\\ClientControllerTest.cs",
+              "RelativeToolTip": "CarController\\ClientControllerTest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:14:24.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Repos\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Services\\Repos\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Repos\\ClientRepository.cs",
+              "RelativeToolTip": "FinalExam\\Services\\Repos\\ClientRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:29:30.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\CarController\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "CarController\\UnitTest.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\CarController\\UnitTest.csproj",
+              "RelativeToolTip": "CarController\\UnitTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T18:13:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "FinalExam\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:48:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Interface\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Services\\Interface\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Interface\\IClientRepository.cs",
+              "RelativeToolTip": "FinalExam\\Services\\Interface\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:29:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeToolTip": "FinalExam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:51:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Interface\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Services\\Interface\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Services\\Interface\\ICarRepository.cs",
+              "RelativeToolTip": "FinalExam\\Services\\Interface\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:03:37.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\Domain\\Client.cs",
+              "RelativeToolTip": "FinalExam\\Models\\Domain\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:43:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\CreateDtos\\CreateCarDto.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\DTOs\\CreateDtos\\CreateCarDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\CreateDtos\\CreateCarDto.cs",
+              "RelativeToolTip": "FinalExam\\Models\\DTOs\\CreateDtos\\CreateCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:01:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateClientDto.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateClientDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateClientDto.cs",
+              "RelativeToolTip": "FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:02:10.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\ClientDto.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\DTOs\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\ClientDto.cs",
+              "RelativeToolTip": "FinalExam\\Models\\DTOs\\ClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:56:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateCarDto.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateCarDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateCarDto.cs",
+              "RelativeToolTip": "FinalExam\\Models\\DTOs\\UpdateDtos\\UpdateCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:02:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\CreateDtos\\CreateClientDto.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\DTOs\\CreateDtos\\CreateClientDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\CreateDtos\\CreateClientDto.cs",
+              "RelativeToolTip": "FinalExam\\Models\\DTOs\\CreateDtos\\CreateClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:01:00.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\CarDto.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\DTOs\\CarDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\DTOs\\CarDto.cs",
+              "RelativeToolTip": "FinalExam\\Models\\DTOs\\CarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:00:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Data\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Data\\CarDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Data\\CarDbContext.cs",
+              "RelativeToolTip": "FinalExam\\Data\\CarDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:49:25.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\Domain\\Car.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Models\\Domain\\Car.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\Models\\Domain\\Car.cs",
+              "RelativeToolTip": "FinalExam\\Models\\Domain\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:43:25.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalExam\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Mihail Shapkarov 5185\\FinalExam\\FinalExam\\appsettings.json",
+              "RelativeToolTip": "FinalExam\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T16:53:14.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
